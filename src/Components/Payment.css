@@ -1,0 +1,29 @@
+.Payment{
+background-color: #fff;
+}
+.Payment_container{
+    text-align: center;
+    font-weight: 400;
+    padding: 10px;
+    background-color: rgb(234,237,237);
+    border-bottom: 1px solid lightgray;
+
+}
+.Payment_container>h1{
+    text-decoration: none;
+
+}
+.Payment_section{
+    display: flex;
+    padding: 20px;
+    margin: 0 20px;
+    border-bottom: 1px solid lightgray;
+
+
+}
+.Payment_title{
+    flex: 0.2;
+}
+.Payment_Address.Payment__item.Payment_detail{
+    flex: 0.8;
+}
